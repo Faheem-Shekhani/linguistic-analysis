@@ -5,3 +5,6 @@ This project provides linguistic analysis in 5 dimensions: Readability, Lexical 
 [Access the Linguistic Analysis Web Application](https://thousand-leaf.shinyapps.io/text_analysis/)
 
 Please submit a plain text, and the application will provide the analysis results.
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
