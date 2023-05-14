@@ -6,5 +6,3 @@ This project provides linguistic analysis in 5 dimensions: Readability, Lexical 
 
 Please submit a plain text, and the application will provide the analysis results.
 
-<!-- readme: contributors -start -->
-<!-- readme: contributors -end -->
